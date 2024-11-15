@@ -1,0 +1,2 @@
+set_io -nowarn led_blue_n   11
+set_io -nowarn led_amber_n  37
