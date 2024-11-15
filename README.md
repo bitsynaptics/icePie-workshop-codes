@@ -16,7 +16,9 @@ Examples codes from icePie FPGA devkit workshop
 ## Install:
 
   * Download all the workshop example codes
-  `git clone https://github.com/bitsynaptics/icePie-workshop-codes`
+  ```bash
+   git clone https://github.com/bitsynaptics/icePie-workshop-codes
+   ```
 
   
   * Use `apio build` and `apio upload` in example directories with `apio.ini` file. `apio clean` for clearing build files. 
